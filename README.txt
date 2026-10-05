@@ -1,6 +1,8 @@
 MÉTABOSCOPE
 ===========
 
+Jeu en ligne : https://michawaro.github.io/metaboscope/
+
 Installation
 1. Décompresser le dossier complet.
 2. Ouvrir Levures_TP3_avec_images.html dans Chrome, Edge, Firefox ou Opera.
